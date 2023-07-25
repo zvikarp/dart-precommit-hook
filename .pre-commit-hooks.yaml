@@ -1,6 +1,6 @@
 - id: dart-format
   name: dart format
   description: Runs dart format on all dart files
-  entry: dart format --set-exit-if-changed .
+  entry: dart format --set-exit-if-changed
   language: dart
   files: \.dart$
