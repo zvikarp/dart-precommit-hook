@@ -2,5 +2,6 @@
   name: dart format
   description: Runs dart format on all dart files
   entry: dart format --set-exit-if-changed
-  language: dart
+  language: system
+  types: [dart]
   files: \.dart$
